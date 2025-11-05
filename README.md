@@ -9,7 +9,8 @@ The final model successfully segments all customers into four actionable groups,
 * `capstone_project.ipynb`: The main Jupyter Notebook containing all Python code, analysis, and visualizations.
 * `capstone_project.html`: A static HTML export of the notebook for easy viewing in any browser.
 * `bets.csv`: The raw, transactional dataset used for this analysis.
-* `Executive_Presentation.pdf`: A high-level PDF slide deck that summarizes the key findings and recommendations for a non-technical, executive audience.
+* `capstone_project_presentation.pdf`: A high-level PDF slide deck that summarizes the key findings and recommendations for a non-technical, executive audience.
+* `capstone_project_presentation.mp4`: Video presentation of the slides.
 * `README.md`: This file.
 
 ## 1. Business Problem
