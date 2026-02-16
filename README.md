@@ -13,6 +13,17 @@ The final model successfully segments all customers into four actionable groups,
 * `capstone_project_presentation.mp4`: Video presentation of the slides.
 * `README.md`: This file.
 
+## 📊 Key Visualizations
+> **Note:** The interactive Plotly charts in the Jupyter Notebook may not render directly on GitHub's static preview. Below are static snapshots of the core analyses. 
+
+* ![alt text](Plot1_Customer_Segmentation_by_Betting_Style.png)
+* ![alt text](Plot2_Distribution_of_Customer_Net_Gain:Loss.png)
+* ![alt text](Plot3_Total_Amount_Staked_by_Customer's_Favorite_Sport.png)
+* ![alt text](Plot4_Elbow_Method_for_Optimal_K.png)
+* ![alt text](Plot5_Customer_Segments_(PCA+K-Means).png)
+* ![alt text](Plot6_Total_Financial_Impact_by_Segment.png)
+* ![alt text](Plot7_Average_Financial_Impact_per_User.png)
+
 ## 1. Business Problem
 
 The company's current strategy for customer management is inefficient and unsustainable. It faces two core challenges:
