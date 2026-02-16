@@ -17,7 +17,7 @@ The final model successfully segments all customers into four actionable groups,
 > **Note:** The interactive Plotly charts in the Jupyter Notebook may not render directly on GitHub's static preview. Below are static snapshots of the core analyses. 
 
 * ![alt text](Plot1_Customer_Segmentation_by_Betting_Style.png)
-* ![alt text](Plot2_Distribution_of_Customer_Net_Gain:Loss.png)
+* ![alt text](Plot2_Distribution_of_Customer_Net_Gain-Loss.png)
 * ![alt text](Plot3_Total_Amount_Staked_by_Customer's_Favorite_Sport.png)
 * ![alt text](Plot4_Elbow_Method_for_Optimal_K.png)
 * ![alt text](Plot5_Customer_Segments_(PCA+K-Means).png)
